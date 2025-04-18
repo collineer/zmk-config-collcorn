@@ -1,5 +1,5 @@
 config SHIELD_COLLCORN_LEFT
-    def_bool $(shields_list_contains,boardname)
+    def_bool $(shields_list_contains,collcorn_left)
 
 config SHIELD_COLLCORN_RIGHT
-    def_bool $(shields_list_contains,boardname)
+    def_bool $(shields_list_contains,collcorn_right)
