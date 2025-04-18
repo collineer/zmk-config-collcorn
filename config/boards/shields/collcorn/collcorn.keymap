@@ -30,7 +30,7 @@
         };
     };
 
-/ {
+
     macros {
         alt_tab: alt_tab {
             compatible = "zmk,behavior-macro";
@@ -40,7 +40,7 @@
                 ;
         };
     };
-};
+
 
 
     keymap {
